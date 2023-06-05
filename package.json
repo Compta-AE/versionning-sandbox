@@ -1,0 +1,9 @@
+{
+  "name": "versionning-sandbox",
+  "version": "1.0.0",
+  "description": "Testing versionning things",
+  "main": "index.js",
+  "repository": "git@github.com:Compta-AE/versionning-sandbox.git",
+  "author": "Klif <klif.cheloul@gmail.com>",
+  "license": "MIT"
+}
